@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Angular,GSAP**
 
-- 👨‍💻 All of my projects are available at [www.danielepetrollo.com](www.danielepetrollo.com)
+- 👨‍💻 All of my projects are available at [www.danielepetrollo.com](www.danielepetrollo.com) (comingsoon)
 
 - 🔭 My Linkedin account [https://www.linkedin.com/in/danielepetrollo/](https://www.linkedin.com/in/danielepetrollo/)
 
