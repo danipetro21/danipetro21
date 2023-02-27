@@ -1,6 +1,6 @@
 <img width="100%" src="https://i.pinimg.com/originals/2f/f4/28/2ff428006f3ade5f10beac69372062ab.gif" alt="linkedin-banner2" border="0" >
 
-<h1 align="center">Hi 👋, I'm Daniele Petrollo</h1>
+<h1 align="center">Hi 👋, I'm Daniele Petrollo 🇮🇹</h1>
 <h3 align="center">A Full Stack Web Developer</h3>
 
 - 🌱 I’m currently learning **Angular,GSAP**
