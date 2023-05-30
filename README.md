@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Daniele Petrollo 🇮🇹</h1>
 <h3 align="center">A Full Stack Web Developer</h3>
 
-- 🌱 I’m currently learning **Angular,GSAP**
+- 🌱 I’m currently learning **Java,Spring**
 
 - 👨‍💻 All of my projects are available at [www.danielepetrollo.com](www.danielepetrollo.com) (comingsoon)
 
