@@ -1,6 +1,6 @@
 
 <h1 align="center">Ciao 👋, sono Daniele Petrollo 🇮🇹</h1>
-<h3 align="center">Sviluppatore Web Full Stack</h3>
+<h3 align="center">IT Consultant | AI Architect | Cloud Specialist</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=danipetro21&label=Profile%20views&color=0e75b6&style=flat" alt="danipetro21" />
@@ -16,13 +16,9 @@
   </a>
 </p>
 
-- 🌱 Attualmente sto studiando **React.js**
-
-- 👨‍💻 Tutti i miei progetti sono disponibili su [www.danielepetrollo.com](https://www.danielepetrollo.com) (coming soon)
+- 👨‍💻 Tutti i miei progetti sono disponibili su [www.danielepetrollo.com](https://www.danielepetrollo.com)
 
 - 🔗 Il mio profilo LinkedIn: [https://www.linkedin.com/in/danielepetrollo/](https://www.linkedin.com/in/danielepetrollo/)
-
-- 💬 Chiedimi di **Vue, HTML5, CSS, Laravel**
 
 - 📫 Puoi contattarmi all'indirizzo **danielepetrollodev@gmail.com**
 
